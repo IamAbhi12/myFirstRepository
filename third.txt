@@ -1,1 +1,1 @@
-a third file to help me understand working of git.
+changing the third file

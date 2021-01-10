@@ -1,1 +1,1 @@
-I am making another text document to learn how git commits it.
+changing the second file
